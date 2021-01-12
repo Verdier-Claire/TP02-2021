@@ -1,0 +1,48 @@
+1c1
+< commit 601848dbf6106e4e07e1de88b5fa16c61458705e
+---
+> commit 7eea51666049418a3af7bba6868e8a54e646698d
+3c3
+< Date:   Tue Jan 12 12:58:45 2021 +0100
+---
+> Date:   Tue Jan 12 13:04:22 2021 +0100
+5c5
+<     création doc04.txt
+---
+>     création doc06.txt
+7c7
+< commit 93c3e0b0830caf7bdf14aff1f1026968254f19b2
+---
+> commit e6df2e10a472829b694b63097f0b9abcd2dc2331
+9c9
+< Date:   Tue Jan 12 12:57:56 2021 +0100
+---
+> Date:   Tue Jan 12 13:03:12 2021 +0100
+11c11
+<     ajout git status à doc03.txt
+---
+>     ajout git status à doc05.txt
+13c13
+< commit f9995dedb5c9b8ac2bce4ca5d92683d2402f0d79
+---
+> commit f6d782ba98bd7b91809ed28c100f7b393539ec22
+15c15
+< Date:   Tue Jan 12 12:56:38 2021 +0100
+---
+> Date:   Tue Jan 12 13:02:27 2021 +0100
+17,29c17
+<     Création doc03.txt
+< 
+< commit 8b35cc5572dc1a9e870e63c1d24b30b6b2f47d50
+< Author: Verdier Claire <claire.verdier@edu.univ-fcomte.fr>
+< Date:   Tue Jan 12 12:56:02 2021 +0100
+< 
+<     création et ajout texte à doc02.txt
+< 
+< commit f9d907505abc654cf1eed62929b89709957c55e6
+< Author: Verdier Claire <claire.verdier@edu.univ-fcomte.fr>
+< Date:   Tue Jan 12 12:54:03 2021 +0100
+< 
+<     Ajout bonjour et signature à doc01.txt
+---
+>     Création doc05.txt
