@@ -1,0 +1,35 @@
+commit 601848dbf6106e4e07e1de88b5fa16c61458705e
+Author: Verdier Claire <claire.verdier@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 12:58:45 2021 +0100
+
+    création doc04.txt
+
+commit 93c3e0b0830caf7bdf14aff1f1026968254f19b2
+Author: Verdier Claire <claire.verdier@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 12:57:56 2021 +0100
+
+    ajout git status à doc03.txt
+
+commit f9995dedb5c9b8ac2bce4ca5d92683d2402f0d79
+Author: Verdier Claire <claire.verdier@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 12:56:38 2021 +0100
+
+    Création doc03.txt
+
+commit 8b35cc5572dc1a9e870e63c1d24b30b6b2f47d50
+Author: Verdier Claire <claire.verdier@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 12:56:02 2021 +0100
+
+    création et ajout texte à doc02.txt
+
+commit f9d907505abc654cf1eed62929b89709957c55e6
+Author: Verdier Claire <claire.verdier@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 12:54:03 2021 +0100
+
+    Ajout bonjour et signature à doc01.txt
+
+commit 493624c694e76835de3f3f4c60f1d61e87430d7d
+Author: Gérald GENIAUT <48517126+GeraldGeniaut@users.noreply.github.com>
+Date:   Mon Jan 11 17:14:17 2021 +0100
+
+    Add files via upload
